@@ -1,4 +1,4 @@
-# For-pensioner
+# For pensioner
 Brute-Force simulation for pensioner and other interests
 
 It's often underestimated how quickly passwords taken from a dictionary can be cracked. And this is still a very common practice.
